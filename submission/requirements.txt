@@ -1,0 +1,2 @@
+# No third-party packages required. The solution uses the Python standard library only
+# and is intended to run on a clean Python 3.11 environment.
